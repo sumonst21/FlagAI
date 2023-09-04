@@ -24,7 +24,7 @@ setup(
         'jieba==0.42.1',
         'scikit-learn==1.0.2',
         'tensorboard==2.9.0',
-        'transformers==4.20.1',
+        'transformers==4.30.0',
         'datasets==2.0.0',
         'setuptools==59.5.0',
         'protobuf==3.20.1',
